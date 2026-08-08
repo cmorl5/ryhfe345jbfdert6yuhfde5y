@@ -63,46 +63,47 @@
   "province_count": 13413,
   "provinces_lost_in_resize": [],
   "border_pixels": 1100912,
+  "borders_excluded": false,
   "span_files": [
     {
       "tile": 0,
       "file": "spans_tile_0.json",
-      "kb": 520.9
+      "kb": 576.4
     },
     {
       "tile": 1,
       "file": "spans_tile_1.json",
-      "kb": 599.9
+      "kb": 676.4
     },
     {
       "tile": 2,
       "file": "spans_tile_2.json",
-      "kb": 1025.9
+      "kb": 1209.4
     },
     {
       "tile": 3,
       "file": "spans_tile_3.json",
-      "kb": 605.5
+      "kb": 670.1
     },
     {
       "tile": 4,
       "file": "spans_tile_4.json",
-      "kb": 377.4
+      "kb": 393.4
     },
     {
       "tile": 5,
       "file": "spans_tile_5.json",
-      "kb": 585.7
+      "kb": 632.9
     },
     {
       "tile": 6,
       "file": "spans_tile_6.json",
-      "kb": 609.7
+      "kb": 654.9
     },
     {
       "tile": 7,
       "file": "spans_tile_7.json",
-      "kb": 624.2
+      "kb": 698.2
     }
   ],
   "span_format": "{ provinceId: [[y, x, length], ...] } in tile-local pixels"
